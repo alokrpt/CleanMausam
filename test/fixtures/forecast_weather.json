@@ -1,0 +1,89 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 40,
+  "list": [
+    {
+      "dt": 1646384400,
+      "main": {
+        "temp": 0.0,
+        "feels_like": 304.11,
+        "temp_min": 0.0,
+        "temp_max": 0.0,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1011,
+        "humidity": 77,
+        "temp_kf": -0.08
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "test",
+          "description": "test",
+          "icon": "test"
+        }
+      ],
+      "clouds": {
+        "all": 67
+      },
+      "wind": {
+        "speed": 3.97,
+        "deg": 239,
+        "gust": 4
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2022-03-04 09:00:00"
+    },
+    {
+      "dt": 1646384400,
+      "main": {
+        "temp": 0.0,
+        "feels_like": 304.36,
+        "temp_min": 0.0,
+        "temp_max": 0.0,
+        "pressure": 1010,
+        "sea_level": 1010,
+        "grnd_level": 1010,
+        "humidity": 76,
+        "temp_kf": -0.11
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "test",
+          "description": "test",
+          "icon": "test"
+        }
+      ],
+      "clouds": {
+        "all": 73
+      },
+      "wind": {
+        "speed": 4.53,
+        "deg": 234,
+        "gust": 4.61
+      },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": {
+        "pod": "d"
+      },
+      "dt_txt": "2022-03-04 12:00:00"
+    }
+  ],
+  "city": {
+    "id": 6295630,
+    "name": "Globe",
+    "coord": {},
+    "country": "",
+    "population": 2147483647,
+    "timezone": 0,
+    "sunrise": 1646374114,
+    "sunset": 1646417716
+  }
+}

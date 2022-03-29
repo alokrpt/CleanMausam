@@ -1,0 +1,76 @@
+{
+"lat": 0,
+"lon": 0,
+"timezone": "Etc/GMT",
+"timezone_offset": 0,
+"current": {
+"dt": 1646384400,
+"sunrise": 1646374114,
+"sunset": 1646417716,
+"temp": 301.06,
+"feels_like": 304.73,
+"pressure": 1011,
+"humidity": 78,
+"dew_point": 296.87,
+"uvi": 5.52,
+"clouds": 100,
+"visibility": 10000,
+"wind_speed": 4.25,
+"wind_deg": 243,
+"wind_gust": 4.32,
+"weather": [
+{
+"id": 804,
+"main": "Clouds",
+"description": "overcast clouds",
+"icon": "04d"
+}
+]
+},
+"hourly": [
+{
+"dt": 1646384400,
+"temp": 0,
+"feels_like": 304.45,
+"pressure": 1010,
+"humidity": 77,
+"dew_point": 296.59,
+"uvi": 0,
+"clouds": 65,
+"visibility": 10000,
+"wind_speed": 5.12,
+"wind_deg": 240,
+"wind_gust": 5.41,
+"weather": [
+{
+"id": 803,
+"main": "test",
+"description": "test",
+"icon": "test"
+}
+]
+},
+{
+"dt": 1646384400,
+"temp": 0.0,
+"feels_like": 304.36,
+"pressure": 1009,
+"humidity": 78,
+"dew_point": 296.71,
+"uvi": 0,
+"clouds": 69,
+"visibility": 10000,
+"wind_speed": 5.33,
+"wind_deg": 236,
+"wind_gust": 5.61,
+"weather": [
+{
+"id": 803,
+"main": "test",
+"description": "test",
+"icon": "test"
+}
+]
+}
+]
+}
